@@ -16,6 +16,7 @@
 		420130A029A7C343007BA78F /* video_playerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4201309F29A7C343007BA78F /* video_playerTests.swift */; };
 		420130AA29A7C343007BA78F /* video_playerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420130A929A7C343007BA78F /* video_playerUITests.swift */; };
 		420130AC29A7C343007BA78F /* video_playerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420130AB29A7C343007BA78F /* video_playerUITestsLaunchTests.swift */; };
+		420130B929A86B80007BA78F /* adMac.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 420130B829A86B80007BA78F /* adMac.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		420130A529A7C343007BA78F /* video_playerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = video_playerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		420130A929A7C343007BA78F /* video_playerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITests.swift; sourceTree = "<group>"; };
 		420130AB29A7C343007BA78F /* video_playerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		420130B829A86B80007BA78F /* adMac.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = adMac.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				4201309129A7C343007BA78F /* Assets.xcassets */,
 				4201309329A7C343007BA78F /* LaunchScreen.storyboard */,
 				4201309629A7C343007BA78F /* Info.plist */,
+				420130B829A86B80007BA78F /* adMac.mp4 */,
 			);
 			path = video_player;
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			files = (
 				4201309529A7C343007BA78F /* LaunchScreen.storyboard in Resources */,
 				4201309229A7C343007BA78F /* Assets.xcassets in Resources */,
+				420130B929A86B80007BA78F /* adMac.mp4 in Resources */,
 				4201309029A7C340007BA78F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
